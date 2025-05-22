@@ -1,0 +1,4 @@
+com\example\scheduler\algorithms\FCFSTest.class
+com\example\scheduler\algorithms\MLFQTest.class
+com\example\scheduler\util\DBConnectionTest.class
+com\example\scheduler\algorithms\SJFPTest.class
